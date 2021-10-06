@@ -20,15 +20,18 @@ cd server -> nodemon index.js
 cd client -> npm start
 
 ![alt text](/client/images/one.png)
+
 In order to add an image a user can simply enter the URL and click post.
 The image will then be added to the database and permanently saved on the website.
 ![alt text](/client/images/two.png)
 ![alt text](/client/images/three.png)
 
-A post can also be edited by changing the image URL
+A post can also be edited by changing the image URL.
+The image URL will be changed in the database through an API call
 ![alt text](/client/images/four.png)
 
 Posts can also be deleted by clicking on the delete button
+The image will be permanently removed from the database.
 ![alt text](/client/images/five.png)
 
 
