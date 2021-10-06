@@ -23,6 +23,7 @@ cd client -> npm start
 
 In order to add an image a user can simply enter the URL and click post.
 The image will then be added to the database and permanently saved on the website.
+
 ![alt text](/client/images/two.png)
 ![alt text](/client/images/three.png)
 
