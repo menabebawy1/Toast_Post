@@ -14,7 +14,9 @@ deleted. It is not the most accurate system but it is the simplest and most effe
 implement at the moment.
 
 To run the app:
+
 cd server -> nodemon index.js
+
 cd client -> npm start
 
 ![alt text](/client/images/one.png)
