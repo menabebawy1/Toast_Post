@@ -1,5 +1,6 @@
 # Toast Post
-A simple social media full-stack app that uses CRUD operations and a REST API.
+A simple social media full-stack web application that uses CRUD operations and a REST API.
+This app uses the PERN stack (PostgreSQL, ExpressJS, ReactJS, NodeJS)
 
 I wanted to learn how the backend of a website works and how to operate it. I learned 
 NodeJS and ExpressJS in order to build this simple social media app. I was already 
@@ -13,10 +14,25 @@ deleted. It is not the most accurate system but it is the simplest and most effe
 implement at the moment.
 
 To run the app:
+
 cd server -> nodemon index.js
+
 cd client -> npm start
 
-![alt text](client/Screen Shot 2021-10-05 at 7.26.47 PM.png)
+![alt text](/client/images/one.png)
+
 In order to add an image a user can simply enter the URL and click post.
+The image will then be added to the database and permanently saved on the website.
+
+![alt text](/client/images/two.png)
+![alt text](/client/images/three.png)
+
+A post can also be edited by changing the image URL.
+The image URL will be changed in the database through an API call
+![alt text](/client/images/four.png)
+
+Posts can also be deleted by clicking on the delete button
+The image will be permanently removed from the database.
+![alt text](/client/images/five.png)
 
 
