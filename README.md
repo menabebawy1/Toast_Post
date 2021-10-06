@@ -16,7 +16,7 @@ To run the app:
 cd server -> nodemon index.js
 cd client -> npm start
 
-![alt text](client/Screen Shot 2021-10-05 at 7.26.47 PM.png)
+![alt text](/client/images/one.png)
 In order to add an image a user can simply enter the URL and click post.
 
 
